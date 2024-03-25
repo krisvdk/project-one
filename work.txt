@@ -1,3 +1,2 @@
-
 create kotlin page
-create kris_pagina 
+create kris_master_pagina 
