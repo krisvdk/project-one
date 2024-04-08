@@ -1,3 +1,2 @@
-create page webview
 create page dashboard
 create page login
